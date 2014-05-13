@@ -158,6 +158,12 @@ keyboard_unset_map();</code>
     <instance objName="obj_saw" x="272" y="208" name="inst_9A49AA6A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_saw" x="368" y="416" name="inst_F282D52A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_saw" x="400" y="416" name="inst_C391ABBF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_blockv" x="328" y="416" name="inst_316E60C8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_blockv" x="328" y="401" name="inst_F80B40B5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_blockv" x="328" y="386" name="inst_60EE95EA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_blockv" x="353" y="416" name="inst_46B46CA4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_blockv" x="353" y="401" name="inst_5C19A647" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_blockv" x="353" y="385" name="inst_8D2C07B0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="back_tiles" x="352" y="432" w="16" h="16" xo="0" yo="102" id="10002955" name="inst_64097EFA" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>

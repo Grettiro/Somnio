@@ -560,6 +560,7 @@ game_end();
           <argument>
             <kind>1</kind>
             <string>deathcount +=1;
+audio_sound_pitch(level_music, 1.0);
 </string>
           </argument>
         </arguments>
@@ -675,6 +676,7 @@ game_end();
           <argument>
             <kind>1</kind>
             <string>deathcount +=1;
+audio_sound_pitch(level_music, 1.0);
 </string>
           </argument>
         </arguments>
