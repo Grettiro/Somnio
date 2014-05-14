@@ -86,23 +86,25 @@
   <rooms name="rooms">
     <room>rooms\rm_intro</room>
     <room>rooms\rm_walktut</room>
-    <room>rooms\rm_1_3</room>
     <room>rooms\rm_gravitytut</room>
     <room>rooms\rm_flashtut</room>
     <room>rooms\rm_slowtut</room>
     <room>rooms\rm_1_1</room>
     <room>rooms\rm_1_2</room>
+    <room>rooms\rm_1_3</room>
     <room>rooms\rm_2_1</room>
     <room>rooms\rm_2_2</room>
     <room>rooms\rm_2_3</room>
     <room>rooms\rm_2_4</room>
+    <room>rooms\rm_2_5</room>
+    <room>rooms\rm_tempSwap</room>
     <room>rooms\rm_3_1</room>
     <room>rooms\rm_3_2</room>
-    <room>rooms\rm_slowHard</room>
-    <room>rooms\rm_gravityHard</room>
-    <room>rooms\rm_gravPermaReverse</room>
-    <room>rooms\rm_Grav_Flash</room>
-    <room>rooms\rm_doomroom</room>
+    <room>rooms\rm_3_3</room>
+    <room>rooms\rm_3_4</room>
+    <room>rooms\rm_4_1</room>
+    <room>rooms\rm_4_2</room>
+    <room>rooms\rm_4_3</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
