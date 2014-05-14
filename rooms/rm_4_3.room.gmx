@@ -116,8 +116,8 @@ keyboard_unset_map();</code>
     <instance objName="obj_halfsaw" x="232" y="356" name="inst_D5C9F6E8" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0"/>
     <instance objName="obj_blockh" x="96" y="288" name="inst_14E8F38A" locked="0" code="" scaleX="3" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_blockh" x="209" y="71" name="inst_606B7105" locked="0" code="" scaleX="3" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_halfsaw" x="233" y="61" name="inst_DB9B9D96" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_halfsaw" x="208" y="61" name="inst_FD59047C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_halfsaw" x="233" y="59" name="inst_DB9B9D96" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_halfsaw" x="209" y="59" name="inst_FD59047C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_saw" x="384" y="160" name="inst_6B9B015E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_saw" x="416" y="128" name="inst_DF5611B4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_saw" x="456" y="103" name="inst_0C2E72D8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>

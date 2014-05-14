@@ -626,6 +626,10 @@ if char_speed &gt; 3.2
 with(obj_parenttrap)
 {
     image_speed = 1;
+    if speed != 0
+    {
+       speed *= 4;
+    }
 }
 
 </string>
@@ -1406,6 +1410,10 @@ with(obj_parenttrap)
     with(obj_parenttrap)
     {
         image_speed = 0.1;
+        if speed != 0
+        {
+            speed /= 4;
+        }
     }
     if hp = 100
     {
@@ -2034,6 +2042,13 @@ else
 with(obj_parenttrap)
 {
     image_speed = 1;
+    if speed != 0
+        {
+            if speed &lt; 1
+            {
+                speed *= 4;
+            }
+        }
 }
 
 </string>
