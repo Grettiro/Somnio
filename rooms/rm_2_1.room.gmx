@@ -11,7 +11,8 @@
   <colour>12632256</colour>
   <showcolour>-1</showcolour>
   <code>globalvar gravity_check;
-gravity_check = 1;</code>
+gravity_check = 1;
+hp = 100;</code>
   <enableViews>-1</enableViews>
   <clearViewBackground>-1</clearViewBackground>
   <makerSettings>
@@ -273,7 +274,6 @@ gravity_check = 1;</code>
     <instance objName="obj_blockv" x="464" y="464" name="inst_370E27EE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_blockv" x="552" y="448" name="inst_938AB6B8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_blockv" x="552" y="464" name="inst_6952F7C9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_character" x="16" y="416" name="inst_D1687EA8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_mindpower" x="16" y="0" name="inst_239BF1EC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_block" x="640" y="0" name="inst_3E97AD53" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_block" x="640" y="32" name="inst_314BFABD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -544,6 +544,8 @@ gravity_check = 1;</code>
     <instance objName="obj_death" x="416" y="448" name="inst_581A3E85" locked="0" code="" scaleX="-1" scaleY="-1" colour="4294967295" rotation="0"/>
     <instance objName="obj_death" x="432" y="448" name="inst_21BD20FB" locked="0" code="" scaleX="-1" scaleY="-1" colour="4294967295" rotation="0"/>
     <instance objName="obj_death" x="448" y="448" name="inst_237100C2" locked="0" code="" scaleX="-1" scaleY="-1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_deathsplatter" x="32" y="0" name="inst_07C7E630" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_character" x="32" y="416" name="inst_49748E55" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="back_tiles" x="0" y="0" w="16" h="16" xo="0" yo="0" id="10000001" name="tile_351D1F17" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>

@@ -13,7 +13,10 @@
     <sound>sound\snd_levelLoop2</sound>
     <sounds name="character death">
       <sound>sound\snd_killcharacter</sound>
+      <sound>sound\snd_death1</sound>
+      <sound>sound\snd_death2</sound>
     </sounds>
+    <sound>sound\snd_teleport</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\spr_block</sprite>
@@ -72,12 +75,17 @@
       <object>objects\obj_ballchain</object>
       <object>objects\obj_saw</object>
       <object>objects\obj_halfsaw</object>
+      <objects name="moving traps">
+        <object>objects\obj_rm_2_6_saw_2</object>
+        <object>objects\obj_rm_2_6_saw_3</object>
+      </objects>
     </objects>
     <object>objects\obj_intro</object>
     <object>objects\obj_blockh</object>
     <object>objects\obj_blockv</object>
     <object>objects\obj_deathsplatter</object>
     <object>objects\obj_powerUp</object>
+    <object>objects\obj_powerUp2</object>
     <objects name="obj_arrows">
       <object>objects\obj_curvedarrow</object>
       <object>objects\obj_straightarrow</object>
@@ -98,12 +106,14 @@
     <room>rooms\rm_2_3</room>
     <room>rooms\rm_2_4</room>
     <room>rooms\rm_2_5</room>
+    <room>rooms\rm_2_6</room>
     <room>rooms\rm_tempSwap</room>
     <room>rooms\rm_3_1</room>
     <room>rooms\rm_3_2</room>
     <room>rooms\rm_3_3</room>
     <room>rooms\rm_3_4</room>
     <room>rooms\rm_3_5</room>
+    <room>rooms\rm_3_6</room>
     <room>rooms\rm_4_1</room>
     <room>rooms\rm_4_2</room>
     <room>rooms\rm_4_3</room>
@@ -112,8 +122,8 @@
     <rtf>help.rtf</rtf>
   </help>
   <TutorialState>
-    <IsTutorial>-1</IsTutorial>
+    <IsTutorial>0</IsTutorial>
     <TutorialName>C:\Users\Grettir\AppData\Local\GameMaker-Studio\tutorials\01_My_First_Game\</TutorialName>
-    <TutorialPage>0</TutorialPage>
+    <TutorialPage>1</TutorialPage>
   </TutorialState>
 </assets>

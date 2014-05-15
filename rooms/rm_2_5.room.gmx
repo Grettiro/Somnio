@@ -12,6 +12,7 @@
   <showcolour>-1</showcolour>
   <code>globalvar gravity_check;
 gravity_check = 1;
+hp = 100;
 keyboard_unset_map();</code>
   <enableViews>-1</enableViews>
   <clearViewBackground>-1</clearViewBackground>
@@ -344,7 +345,6 @@ keyboard_unset_map();</code>
     <instance objName="obj_death" x="288" y="336" name="inst_0CEA8A8F" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0"/>
     <instance objName="obj_death" x="304" y="336" name="inst_711ABBCA" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0"/>
     <instance objName="obj_death" x="320" y="336" name="inst_E6779978" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_character" x="16" y="432" name="inst_A69AC0B8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_blockv" x="160" y="304" name="inst_D0498774" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_blockv" x="144" y="320" name="inst_99485C1C" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_blockv" x="128" y="336" name="inst_46DD5213" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -514,6 +514,7 @@ keyboard_unset_map();</code>
     <instance objName="obj_straightarrow" x="30" y="346" name="inst_D5D74677" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="43"/>
     <instance objName="obj_straightarrow" x="262" y="117" name="inst_9E4952EE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_straightarrow" x="498" y="126" name="inst_267028E5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="-45"/>
+    <instance objName="obj_character" x="21" y="435" name="inst_5D236377" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="back_tiles" x="192" y="320" w="16" h="16" xo="51" yo="68" id="10000631" name="inst_E6546672" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>

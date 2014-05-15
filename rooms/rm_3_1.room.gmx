@@ -537,7 +537,6 @@ if !audio_is_playing(snd_levelLoop2)
     <instance objName="obj_block" x="48" y="320" name="inst_1AFD8A90" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_block" x="32" y="320" name="inst_4B9E35CB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_block" x="16" y="320" name="inst_96E0E46B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_character" x="16" y="288" name="inst_C8DA3D77" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_blockv" x="1232" y="336" name="inst_A47B4835" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_block" x="32" y="80" name="inst_13C29CD2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_block" x="1232" y="336" name="inst_72A61BE0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -785,6 +784,7 @@ if !audio_is_playing(snd_levelLoop2)
     <instance objName="obj_block" x="1344" y="288" name="inst_84EDFBD8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_block" x="1344" y="272" name="inst_CED49756" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ballchain" x="944" y="96" name="inst_CFA49ED1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_character" x="23" y="288" name="inst_BD3AC4DA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="back_tiles" x="80" y="320" w="16" h="16" xo="34" yo="51" id="10000656" name="inst_5D561B44" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>

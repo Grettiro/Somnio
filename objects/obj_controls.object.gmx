@@ -1852,7 +1852,10 @@ else
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>if gravity_check = 0
+            <string>audio_stop_sound(snd_teleport);
+audio_play_sound(snd_teleport, 1, false);
+
+if gravity_check = 0
 {
     gravity_check = 1;
 }
