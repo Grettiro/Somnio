@@ -62,7 +62,6 @@ keyboard_unset_map();</code>
     <instance objName="obj_block" x="16" y="0" name="inst_F99DE1A8" locked="0" code="" scaleX="38" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_mindpower" x="16" y="16" name="inst_BBC46A1B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_levelexit" x="608" y="449" name="inst_0AF5EFE3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_deathsplatter" x="32" y="16" name="inst_0444F595" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_block" x="16" y="368" name="inst_8F1F9BC6" locked="0" code="" scaleX="38" scaleY="-23" colour="4294967295" rotation="0"/>
     <instance objName="obj_halfsaw" x="113" y="452" name="inst_E63BD83B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_halfsaw" x="138" y="452" name="inst_57322990" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -119,6 +118,7 @@ keyboard_unset_map();</code>
     <instance objName="obj_block" x="576" y="368" name="inst_9D809AB6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_block" x="592" y="368" name="inst_93B61954" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_block" x="608" y="368" name="inst_0B46FB0E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_deathsplatter" x="16" y="384" name="inst_2F380384" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="back_tiles" x="144" y="80" w="16" h="16" xo="68" yo="0" id="10000301" name="inst_587D0948" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>

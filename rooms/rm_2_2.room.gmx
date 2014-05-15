@@ -282,7 +282,6 @@ keyboard_unset_map();</code>
     <instance objName="obj_block" x="352" y="336" name="inst_20309DA4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_block" x="336" y="384" name="inst_2BD26894" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_levelexit" x="688" y="432" name="inst_AF556F49" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_deathsplatter" x="1" y="30" name="inst_213BB038" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_block" x="64" y="288" name="inst_9C8FA720" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_block" x="64" y="272" name="inst_0E165ABF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_block" x="64" y="256" name="inst_4B326CFF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -645,6 +644,10 @@ keyboard_unset_map();</code>
     <instance objName="obj_block" x="368" y="464" name="inst_1C25E57F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_block" x="64" y="48" name="inst_4D99808B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_character" x="42" y="24" name="inst_44986083" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_deathsplatter" x="32" y="0" name="inst_9A8992B9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_curvedarrow" x="96" y="144" name="inst_830F5F56" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_curvedarrow" x="272" y="336" name="inst_C777DD5A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="-30"/>
+    <instance objName="obj_curvedarrow" x="448" y="384" name="inst_9D650BF7" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="90"/>
   </instances>
   <tiles>
     <tile bgName="back_tiles" x="0" y="448" w="16" h="16" xo="34" yo="102" id="10000350" name="inst_F2A0C4B6" depth="1000002" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>

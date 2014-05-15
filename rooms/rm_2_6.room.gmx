@@ -467,6 +467,7 @@ keyboard_unset_map();</code>
     <instance objName="obj_rm_2_6_saw_3" x="-32" y="64" name="inst_C3CF5763" locked="0" code="" scaleX="1.34783005714417" scaleY="1.34783005714417" colour="4294967295" rotation="0"/>
     <instance objName="obj_powerUp2" x="48" y="256" name="inst_6AB97DD8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_character" x="24" y="423" name="inst_A62BB334" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_deathsplatter" x="0" y="368" name="inst_5CE3222C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="back_tiles" x="480" y="96" w="16" h="16" xo="34" yo="0" id="10000307" name="inst_577883FD" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>

@@ -585,7 +585,9 @@ else
     audio_stop_sound(snd_death2);
     audio_play_sound(snd_death2, 4, false);
 }
+deathtype[deathcount] = -1;
 deathcount +=1;
+
 audio_sound_pitch(level_music, 1.0);
 </string>
           </argument>
@@ -690,6 +692,7 @@ else
     audio_stop_sound(snd_death2);
     audio_play_sound(snd_death2, 4, false);
 }
+deathtype[deathcount] = -1;
 deathcount +=1;
 audio_sound_pitch(level_music, 1.0);
 </string>
