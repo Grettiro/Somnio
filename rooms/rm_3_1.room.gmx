@@ -785,7 +785,6 @@ if !audio_is_playing(snd_levelLoop2)
     <instance objName="obj_block" x="1344" y="272" name="inst_CED49756" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ballchain" x="944" y="96" name="inst_CFA49ED1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_character" x="23" y="288" name="inst_BD3AC4DA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_deathsplatter" x="0" y="16" name="inst_518D334A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="back_tiles" x="80" y="320" w="16" h="16" xo="34" yo="51" id="10000656" name="inst_5D561B44" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>

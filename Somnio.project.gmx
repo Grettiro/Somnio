@@ -59,6 +59,10 @@
     <background>background\back_intro</background>
     <background>background\back_eye</background>
     <background>background\back_menu</background>
+    <background>background\back_walktut</background>
+    <background>background\back_gravtut</background>
+    <background>background\back_slowtut</background>
+    <background>background\back_flashtut</background>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
@@ -85,11 +89,11 @@
     <object>objects\obj_blockv</object>
     <object>objects\obj_deathsplatter</object>
     <object>objects\obj_powerUp</object>
-    <object>objects\obj_powerUp2</object>
     <objects name="obj_arrows">
       <object>objects\obj_curvedarrow</object>
       <object>objects\obj_straightarrow</object>
     </objects>
+    <object>objects\obj_powerUp2</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_intro</room>
@@ -122,8 +126,8 @@
     <rtf>help.rtf</rtf>
   </help>
   <TutorialState>
-    <IsTutorial>0</IsTutorial>
+    <IsTutorial>-1</IsTutorial>
     <TutorialName>C:\Users\Grettir\AppData\Local\GameMaker-Studio\tutorials\01_My_First_Game\</TutorialName>
-    <TutorialPage>1</TutorialPage>
+    <TutorialPage>0</TutorialPage>
   </TutorialState>
 </assets>

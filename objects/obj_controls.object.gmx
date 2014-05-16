@@ -1514,7 +1514,8 @@ drawer = 0;
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>deathtype = -1;
+            <string>deathcount = 0;
+drawer = 0;
 </string>
           </argument>
         </arguments>
@@ -1901,10 +1902,7 @@ else
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>audio_stop_sound(snd_teleport);
-audio_play_sound(snd_teleport, 1, false);
-
-if gravity_check = 0
+            <string>if gravity_check = 0
 {
     gravity_check = 1;
 }
