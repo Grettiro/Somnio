@@ -164,6 +164,7 @@ keyboard_unset_map();</code>
     <instance objName="obj_blockv" x="353" y="416" name="inst_46B46CA4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_blockv" x="353" y="401" name="inst_5C19A647" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_blockv" x="353" y="385" name="inst_8D2C07B0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_deathcounter" x="16" y="64" name="inst_1B9D2D74" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="back_tiles" x="352" y="432" w="16" h="16" xo="0" yo="102" id="10002955" name="inst_64097EFA" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>

@@ -17,6 +17,8 @@
       <sound>sound\snd_death2</sound>
     </sounds>
     <sound>sound\snd_gravity</sound>
+    <sound>sound\snd_teleport</sound>
+    <sound>sound\snd_gamefinish</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\spr_block</sprite>
@@ -80,14 +82,17 @@
       <object>objects\obj_saw</object>
       <object>objects\obj_halfsaw</object>
       <objects name="moving traps">
-        <object>objects\obj_rm_2_6_saw_2</object>
-        <object>objects\obj_rm_2_6_saw_3</object>
+        <objects name="rm_2_6">
+          <object>objects\obj_rm_2_6_saw_2</object>
+          <object>objects\obj_rm_2_6_saw_3</object>
+        </objects>
       </objects>
     </objects>
     <object>objects\obj_intro</object>
     <object>objects\obj_blockh</object>
     <object>objects\obj_blockv</object>
     <object>objects\obj_deathsplatter</object>
+    <object>objects\obj_deathcounter</object>
     <object>objects\obj_powerUp</object>
     <objects name="obj_arrows">
       <object>objects\obj_curvedarrow</object>

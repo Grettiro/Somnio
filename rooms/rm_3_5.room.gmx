@@ -973,6 +973,7 @@ keyboard_unset_map();</code>
     <instance objName="obj_straightarrow" x="117" y="221" name="inst_0FCE0B4F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="45"/>
     <instance objName="obj_straightarrow" x="208" y="304" name="inst_B580E794" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_straightarrow" x="366" y="104" name="inst_D123F458" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="270"/>
+    <instance objName="obj_deathcounter" x="32" y="64" name="inst_0555D435" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="back_tiles" x="0" y="16" w="16" h="16" xo="17" yo="68" id="10000679" name="inst_0B298E10" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>

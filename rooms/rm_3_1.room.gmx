@@ -692,7 +692,6 @@ if !audio_is_playing(snd_levelLoop2)
     <instance objName="obj_straightarrow" x="141" y="330" name="inst_97EEA5FB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="91"/>
     <instance objName="obj_straightarrow" x="202" y="199" name="inst_7150F148" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_straightarrow" x="510" y="188" name="inst_14431360" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_curvedarrow" x="1008" y="336" name="inst_F302EE2A" locked="0" code="" scaleX="-1" scaleY="-1" colour="4294967295" rotation="1"/>
     <instance objName="obj_ballchain" x="1040" y="80" name="inst_34272C00" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_straightarrow" x="948" y="91" name="inst_E3238C98" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_block" x="1280" y="304" name="inst_D50811A7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -785,6 +784,8 @@ if !audio_is_playing(snd_levelLoop2)
     <instance objName="obj_block" x="1344" y="272" name="inst_CED49756" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ballchain" x="944" y="96" name="inst_CFA49ED1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_character" x="23" y="288" name="inst_BD3AC4DA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_deathcounter" x="96" y="96" name="inst_0AA2AA0A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_curvedarrow" x="944" y="272" name="inst_2324C6EC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="back_tiles" x="80" y="320" w="16" h="16" xo="34" yo="51" id="10000656" name="inst_5D561B44" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>

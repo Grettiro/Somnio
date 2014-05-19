@@ -138,6 +138,7 @@ keyboard_unset_map();</code>
     <instance objName="obj_straightarrow" x="219" y="368" name="inst_D17317B5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_straightarrow" x="164" y="312" name="inst_F2018B10" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="89"/>
     <instance objName="obj_character" x="26" y="443" name="inst_4B52900F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_deathcounter" x="16" y="48" name="inst_CE70D53E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="back_tiles" x="0" y="400" w="16" h="16" xo="0" yo="0" id="10001069" name="inst_33DDC50E" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
