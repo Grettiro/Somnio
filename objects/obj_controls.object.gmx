@@ -1875,6 +1875,36 @@ drawer = 0;
           <argument>
             <kind>1</kind>
             <string>if hp &gt; 1
+            <string>/*teleport controller*/
+audio_stop_sound(snd_teleport);
+audio_play_sound(snd_teleport, 3, false);
+if sprite_index == 9 or sprite_index == 12
+{
+    if place_meeting(x+100, y, obj_block)
+    {
+        var i = 100;
+        while(place_meeting(x+i, y, obj_block))
+        {
+            i-=5;
+        }
+        x+=i;
+        vspeed = 0;
+    }
+    else
+    {
+        var i = 100;
+        if x+100 &gt; room_width
+        {
+            while(x+i &gt; room_width)
+            {
+                i-=5;
+            }
+        }
+        x += i;
+        vspeed = 0;
+    }
+}
+else
 {
     audio_sound_pitch(level_music, 0.7);
     with(obj_parenttrap)
